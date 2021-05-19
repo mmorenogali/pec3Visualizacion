@@ -1,7 +1,5 @@
 # Visualización de datos. PEC 3 mmorenogali
 
-
-# Índice
 En este repositorio está dividido en tres directorios. En el directorio principal se encuentra el código de preprocesado, que se recoge en mergeAndExplore.py.
 
 También se encuentra la rúbrica de la PEC, que es la que se ha seguido para la realización de la entrega. 
