@@ -1,5 +1,4 @@
-# Visualización de datos. PEC 3
-mmorenogali
+# Visualización de datos. PEC 3 mmorenogali
 
 
 # Índice
